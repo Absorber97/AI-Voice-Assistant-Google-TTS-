@@ -2,6 +2,9 @@
 
 A modern voice assistant powered by OpenAI's GPT-4 and Whisper models. This assistant can understand voice commands, process them using advanced AI, and respond naturally through speech.
 
+- Google Slide: https://docs.google.com/presentation/d/19X8f4IoU6ifX97Q6JkFdLFcBJ6_QNQRWMYQ47Xjj27o/edit?usp=sharing
+- Google Slide (PDF): https://drive.google.com/file/d/14K3ZFlHRNXl2gvFlHRip7EOHI9xTobt-/view?usp=sharing
+
 ## 🌟 Features
 
 - 🎙️ **Voice Activation** - Customizable wake word (default: "hey oak")
